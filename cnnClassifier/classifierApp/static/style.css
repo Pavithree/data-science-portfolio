@@ -1,0 +1,31 @@
+body{
+    background: url("/static/images/img.jpg")  no-repeat ;
+    background-size: cover;
+
+}
+.text-style{
+    color : white;
+}
+.input_style{
+  background-color: cornflowerblue;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: left;
+}
+.flex-container{
+  display: flex;
+  flex-wrap: nowrap;
+  width : 400px;
+  justify-content: space-between;
+  align-items: center;
+  
+
+}
+.img_style{
+    border: 0px;
+    height: 400px;
+    width:400px;
+}

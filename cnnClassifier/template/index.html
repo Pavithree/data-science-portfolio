@@ -1,0 +1,31 @@
+{% load static %}
+<!DOCTYPE html>
+    <head>
+        <link rel="stylesheet" href="{% static 'style.css' %}">
+    </head>
+    <body>
+        <h1 class="text-style">Upload an image of a cat or a dog and click submit</h1>
+        <form method="post" enctype="multipart/form-data" action="classifyImage">
+    
+            {% csrf_token %}
+            <div class="flex-container">
+                <div>
+                    <input class="input_style" name="filePath" type="file" aria-label="File browser example">
+                </div>
+                <div>
+                    <input class="input_style" type="submit" value="Submit" >
+                </div>
+            </div>
+            {% if prediction %}
+                <div>
+                    <h1 class="text-style">The classification of the image is {{prediction}}</h2>
+                </div>
+            {% endif %}
+            <div class="img_style">
+                <img src={{filePathName}} alt='imagename'>
+            </div>
+        
+        
+        </form>
+</body>
+</html>
