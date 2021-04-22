@@ -6,7 +6,7 @@ This is my first convolutional neural network project, which classifies a given 
 I built this model using tensor-flow, pandas, numpy libraries which is later integrated to django interface to build an interactive web application.
 
 **Technical Details**\
-All the technical details can be found 
+All the technical details can be found [here.](https://github.com/Pavithree/data-science-portfolio/blob/main/cnnClassifier/jupyterNoteBook/Cnn_CatOrDog_Classifier.ipynb)
 
 **Installation**
 - Clone this repo to your local system
