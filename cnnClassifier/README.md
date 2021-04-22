@@ -8,6 +8,8 @@ I built this model using tensor-flow, pandas, numpy libraries which is later int
 **Technical Details**\
 All the technical details can be found 
 
-**How to run?**
+**Installation**
+- Clone this repo to your local system
 - Install the libraries mentioned in requirements.txt by running simple command **pip install requirements.txt**
-- Open the cmd and navigate to the project and run the following command **python manage.py runserver**
+- Open the cmd and navigate to the project using **cd folder**
+-  and run the following command **python manage.py runserver**
