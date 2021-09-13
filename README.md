@@ -9,7 +9,10 @@ This repository consits of data science projects. As a data science enthusiast I
   * This project aims at predicting the monetary value of houses located in Boston. Various machine learning regression algorithms like Linear regression, Decision tree regression, Random Forest Regression, Xgboost were implemented and compared to find the best accuracy of prediction.
 * [Happiness Index of all countries:](https://github.com/Pavithree/data-science-portfolio/tree/main/Happiness%20Index)
   * This project gives some statistical details of happiness index of all the countries spread across 7 continents. The dataset for this project is scarped from wikipedia sites using Beautifulsoup and the results are visualised using plotly, matplotlib libraries. 
-
+* [Anomaly Detection:](https://github.com/Pavithree/data-science-portfolio/tree/main/AnomalyDetection)
+  * This project aims at finding unsual behaviour or anamoly in the sensor readings of around 55 sensors which monitors the state of pump. This project is especially useful in manufacturing industries, where there will be huge loss or injuries caused by outbreak of machinery. By constant monitoring of these sensor state, we can try and detect anamolies and prevent such outbreaks.
+  * This project is built using pandas,numpy,sklearn libraries. The results are visualised using seaborn and matplotlib libraries. Various clustering algorithms like k-means, Isolation forest is implemented and compared against our benchmark statistical model IQR.
+  
 ## Deep Learning Projects:
 * [CNN cat or dog classification](https://github.com/Pavithree/data-science-portfolio/tree/main/cnnClassifier)
   * This is my first convolutional neural network project, which classifies a given image consisting of either cat or dog into their respective classes. I built this model using tensor-flow, pandas, numpy libraries which is later integrated to django interface to build an interactive web application.
