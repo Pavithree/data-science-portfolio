@@ -1,5 +1,5 @@
 **Demo**\
-  The demo of this project can be found <https://github.com/Pavithree/data-science-portfolio/blob/main/HandwrittenCharacterRecognition/HDR.mp4>
+  The demo of this project can be found <https://drive.google.com/file/d/1JlGxevBI_NVBKpyelYN6YKD_A90Avy5-/view?usp=sharing>
   
 **About**\
 The project aims at recognising handwritten digits from an image and converting it to editable document. This model is built using tensorflow,pandas,numpy,opencv-python libraries.

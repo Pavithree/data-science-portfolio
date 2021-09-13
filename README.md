@@ -7,7 +7,8 @@ This repository consits of data science projects. As a data science enthusiast I
 ## Data Science projects:
 * [Boston House Prediction:](https://github.com/Pavithree/data-science-portfolio/blob/main/bostonHousing/bostonHousing.ipynb)
   * This project aims at predicting the monetary value of houses located in Boston. Various machine learning regression algorithms like Linear regression, Decision tree regression, Random Forest Regression, Xgboost were implemented and compared to find the best accuracy of prediction.
-   
+* [Happiness Index of all countries:](https://github.com/Pavithree/data-science-portfolio/tree/main/Happiness%20Index)
+  * This project gives some statistical details of happiness index of all the countries spread across 7 continents. The dataset for this project is scarped from wikipedia sites using Beautifulsoup and the results are visualised using plotly, matplotlib libraries. 
 
 ## Deep Learning Projects:
 * [CNN cat or dog classification](https://github.com/Pavithree/data-science-portfolio/tree/main/cnnClassifier)
