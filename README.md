@@ -18,3 +18,8 @@ This repository consits of data science projects. As a data science enthusiast I
   * This is my first convolutional neural network project, which classifies a given image consisting of either cat or dog into their respective classes. I built this model using tensor-flow, pandas, numpy libraries which is later integrated to django interface to build an interactive web application.
 * [Recognition of handwritten digits from an image](https://github.com/Pavithree/data-science-portfolio/tree/main/HandwrittenCharacterRecognition)
   * In this project handwritten digits are extracted from an image and is recognised using deep learning model, convolutional Neural networks and is converted to editable document. This model is built using openCV, tensorflow, pandas, numpy libraries.
+
+## Data Visualisation - Power BI
+* [Covid-19 Analysis](https://github.com/Pavithree/data-science-portfolio/tree/main/Covid19)
+  * I tried to carry out exploratory analysis using covid 19 data from worldometer to understand the current trends in data. I used PowerBI Desktop to prepare the Dashboard.
+  * This report gives an overview of covid cases in the world and one can filter the data country wise.
